@@ -1,0 +1,35 @@
+#comment-modal {
+    position: fixed;
+    top: 3%;
+    left: 25%;
+    width: 50%;
+    background-color: black;
+    height: 95vh;
+    overflow: scroll;
+}
+
+#modal-close {
+    position: sticky;
+    top: 0%;
+    left: 100%;
+    border: 1px solid red;
+    background-color: black;
+    cursor: pointer;
+}
+
+#comment {
+    padding: 2px 10px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin: 10px 20px;
+}
+
+#parent-comment-post {
+    margin-left: 50px;
+}
+
+#post-comment-btn {
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+}

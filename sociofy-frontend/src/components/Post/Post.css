@@ -1,0 +1,18 @@
+#Post {
+    margin: 10px 0px;
+    padding-top: 10px;
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+#post-user {
+    font-size: 18px;
+}
+
+.like-btn {
+    cursor: pointer;
+}
+
+.comment-btn {
+    cursor: pointer;
+}

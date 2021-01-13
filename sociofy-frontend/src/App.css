@@ -1,0 +1,13 @@
+#content-router {
+  height: 91vh;
+  overflow: auto;
+}
+
+#sub-title {
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+#app-icon {
+  font-size: 4rem;
+}
